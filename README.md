@@ -17,6 +17,8 @@ For working papers and ongoing projects check out my [research page](https://lrd
 ## Teaching 
 
 * [R for Data Science](https://github.com/lrdegeest/r-for-data-science)
+* [`SuffolkEcon`](https://suffolkecon.github.io/SuffolkEcon/) R package for the Department of Economics at Suffolk University to help teach introductory concepts in statistics, econometrics and optimization
+* [`econ.suffolk.edu`](https://econ.suffolk.edu/) Interactive R tutorials and other materials for the Department of Economics at Suffolk University
 * [`simstonk`](https://github.com/lrdegeest/simstonk) R package to simulate asset portfolios
 * [`StateACS`](https://github.com/lrdegeest/StateACS) R package to scrape data from the American Community Survey
 * [`TeachingAssistant`](https://github.com/lrdegeest/TeachingAssistant) Python module to grade Excel workbooks and email grade reports
