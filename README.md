@@ -6,11 +6,11 @@ If you're interested in talking about my work, your work, bikes, guitars, or any
 
 ## Published Research
  
-* Norm Enforcement with Incomplete Information (with David Kingsley) [[Repo]](https://github.com/lrdegeest/NormEnforcement) 
-* Inequality and peer punishment in a common-pool resource experiment (with David Kingsley) [[Repo]](https://github.com/lrdegeest/InequalityCPR)
-* Endowment Heterogeneity, Incomplete Information & Institutional Choice in Public Good Experiments (with David Kingsley) [[Repo]](https://github.com/lrdegeest/InstitutionalChoice)
-* Defending public goods and common-pool resources (with John Stranlund) [[Repo]](https://github.com/lrdegeest/Defending-PGs-CPRs)
-* Deterring poaching of a common-pool resource (with John Stranlund and John Spraggon) [[Repo]](https://github.com/lrdegeest/deterring-poaching)
+* **Norm Enforcement with Incomplete Information** (with David Kingsley) [[Repo]](https://github.com/lrdegeest/NormEnforcement) 
+* **Inequality and peer punishment in a common-pool resource experiment** (with David Kingsley) [[Repo]](https://github.com/lrdegeest/InequalityCPR)
+* **Endowment Heterogeneity, Incomplete Information & Institutional Choice in Public Good Experiments** (with David Kingsley) [[Repo]](https://github.com/lrdegeest/InstitutionalChoice)
+* **Defending public goods and common-pool resources** (with John Stranlund) [[Repo]](https://github.com/lrdegeest/Defending-PGs-CPRs)
+* **Deterring poaching of a common-pool resource** (with John Stranlund and John Spraggon) [[Repo]](https://github.com/lrdegeest/deterring-poaching)
 
 For working papers and ongoing projects check out my [research page](https://lrdegeest.github.io/research/)
 
