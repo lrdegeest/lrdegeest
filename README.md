@@ -8,6 +8,7 @@ If you're interested in talking about my work, your work, bikes, guitars, or any
 
 ### Papers
 
+* **Ours, Not Yours: Earned Property Rights, Collective Action and Deterrence in Common-pool Resources** (with Abdul Kidwai and Javier Portillo) [[Repo]](https://github.com/lrdegeest/OursNotYours)
 * **Norm Enforcement with Incomplete Information** (with David Kingsley) [[Repo]](https://github.com/lrdegeest/NormEnforcement) 
 * **Inequality and peer punishment in a common-pool resource experiment** (with David Kingsley) [[Repo]](https://github.com/lrdegeest/InequalityCPR)
 * **Endowment Heterogeneity, Incomplete Information & Institutional Choice in Public Good Experiments** (with David Kingsley) [[Repo]](https://github.com/lrdegeest/InstitutionalChoice)
