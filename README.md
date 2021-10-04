@@ -23,7 +23,7 @@ For working papers and ongoing projects check out my [research page](https://lrd
 
 ## Teaching 
 
-* [R for Data Science](https://github.com/lrdegeest/r-for-data-science)
+* [R for Data Science](https://github.com/lrdegeest/r-for-data-science). Materials for a master's / advanced undergraduate course on R programming based mostly on the excellent book [*R For Data Science*](https://r4ds.had.co.nz/).
 * [`SuffolkEcon`](https://suffolkecon.github.io/SuffolkEcon/) R package for the Department of Economics at Suffolk University to help teach introductory concepts in statistics, econometrics and optimization
 * [`econ.suffolk.edu`](https://econ.suffolk.edu/) Interactive R tutorials and other materials for the Department of Economics at Suffolk University
 * [`simstonk`](https://github.com/lrdegeest/simstonk) R package to simulate asset portfolios
