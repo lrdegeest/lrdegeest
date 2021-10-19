@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy! 👋
 
 I'm a Senior Data Scientist at the NBA, an Assistant Professor of Economics at Suffolk University, and an Adjuct Professor of Economics at Boston College. 
 
