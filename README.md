@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-I'm a Senior Data Scientist at the NBA, an Assistant Professor of Economics at Suffolk University, and an Adjuct Professor of Economics at Boston College. 
+I'm a Senior Data Scientist at the NBA, an Assistant Professor of Economics at Suffolk University, and an Adjuct Professor of Economics at Boston College. I also keep a [blog](https://lrdegeest.github.io/blog/) with side projects. 
 
 If you're interested in talking about my work, your work, bikes, guitars, or anything else, get in touch!
 
@@ -30,6 +30,3 @@ For working papers and ongoing projects check out my [research page](https://lrd
 * [`StateACS`](https://github.com/lrdegeest/StateACS) R package to scrape data from the American Community Survey
 * [`TeachingAssistant`](https://github.com/lrdegeest/TeachingAssistant) Python module to grade Excel workbooks and email grade reports
 
-## Side projects
-
-[Blog](https://lrdegeest.github.io/blog/)
