@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-I'm a Senior Data Scientist at the NBA, an incoming Senior Data Scientist/Economist at Lyft, an Assistant Professor of Economics at Suffolk University, and an Adjuct Professor of Economics at Boston College. I also keep a [blog](https://lrdegeest.github.io/blog/) with side projects. 
+I'm a Senior Data Scientist at the NBA, an incoming Senior Data Scientist at Lyft, an Assistant Professor of Economics at Suffolk University, and an Adjuct Professor of Economics at Boston College. I also keep a [blog](https://lrdegeest.github.io/blog/) with side projects. 
 
 If you're interested in talking about my work, your work, bikes, guitars, or anything else, get in touch!
 
