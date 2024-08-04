@@ -1,6 +1,6 @@
 ### Howdy! 👋
 
-I'm a Senior Data Scientist at Lyft, a Visitig Professor of Economics at the University of San Franciscoo, an Assistant Professor of Economics at Suffolk University, and an Adjuct Professor of Economics at Boston College. I also keep a [blog](https://lrdegeest.github.io/blog/) with side projects. 
+I'm a Senior Data Scientist at Lyft, a Visiting Professor of Economics at the University of San Francisco, and an Adjunct Professor of Economics at Boston College. Previously I was an Assistant Professor of Economics at Suffolk University. I also keep a [blog](https://lrdegeest.github.io/blog/) with side projects, essays and stories. 
 
 If you're interested in talking about my work, your work, bikes, guitars, or anything else, get in touch!
 
