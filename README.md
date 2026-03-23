@@ -1,21 +1,12 @@
 ### Howdy! 👋
 
-I'm a Senior Data Scientist at Lyft, a Visiting Professor of Economics at the University of San Francisco, and an Adjunct Professor of Economics at Boston College. Previously I was an Assistant Professor of Economics at Suffolk University. I also keep a [blog](https://lrdegeest.github.io/blog/) with side projects, essays and stories. 
+I'm a Senior Data Scientist at Zoox (Amazon's self-driving car), a Visiting Professor of Economics at the University of San Francisco, and an Adjunct Professor of Economics at Boston College. Previously I was an Assistant Professor of Economics at Suffolk University. I also keep a [blog](https://lrdegeest.github.io/blog/) with side projects, essays and stories. 
 
 If you're interested in talking about my work, your work, bikes, guitars, or anything else, get in touch!
 
-## Published Research
+## Research
 
-### Papers
-
-* **Ours, Not Yours: Earned Property Rights, Collective Action and Deterrence in Common-pool Resources** (with Abdul Kidwai and Javier Portillo) [[Repo]](https://github.com/lrdegeest/OursNotYours)
-* **Norm Enforcement with Incomplete Information** (with David Kingsley) [[Repo]](https://github.com/lrdegeest/NormEnforcement) 
-* **Inequality and peer punishment in a common-pool resource experiment** (with David Kingsley) [[Repo]](https://github.com/lrdegeest/InequalityCPR)
-* **Endowment Heterogeneity, Incomplete Information & Institutional Choice in Public Good Experiments** (with David Kingsley) [[Repo]](https://github.com/lrdegeest/InstitutionalChoice)
-* **Defending public goods and common-pool resources** (with John Stranlund) [[Repo]](https://github.com/lrdegeest/Defending-PGs-CPRs)
-* **Deterring poaching of a common-pool resource** (with John Stranlund and John Spraggon) [[Repo]](https://github.com/lrdegeest/deterring-poaching)
-
-For working papers and ongoing projects check out my [research page](https://lrdegeest.github.io/research/).
+I have two main interests right now: mechanism design and collective action in marketplaces, and experimental design in marketplaces. For published papers, working papers and other projects check out my [research page](https://lrdegeest.github.io/research/).
 
 ### Software
 
