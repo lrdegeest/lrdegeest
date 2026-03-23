@@ -12,7 +12,7 @@ I have two main interests right now: mechanism design and collective action in m
 
 [`panelGMM`](https://github.com/lrdegeest/panelGMM) R package to estimate Genaralized Method of Moments models for panel data
 
-## Teaching 
+## Teaching (pre-LLMs)
 
 * [R for Data Science](https://github.com/lrdegeest/r-for-data-science). Materials for a master's / advanced undergraduate course on R programming based mostly on the excellent book [*R For Data Science*](https://r4ds.had.co.nz/).
 * [`SuffolkEcon`](https://suffolkecon.github.io/SuffolkEcon/) R package for the Department of Economics at Suffolk University to help teach introductory concepts in statistics, econometrics and optimization
